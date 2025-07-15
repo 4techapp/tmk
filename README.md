@@ -5,40 +5,17 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 indrodução :
 ** Link Internet **
-                        +--------------------+
-                        |      INTERNET      |
-                        +---------+----------+
-                                  |
-                        +---------v----------+
-                        |     ROTEADOR       |
-                        |  (com Failover)    |
-                        +---------+----------+
-                                  |
-                       +----------+----------+
-                       |                     |
-                +------v-----+        +------v-----+
-                |  LINK 1    |        |  LINK 2    |
-                | PRINCIPAL  |        |  BACKUP    |
-                +------------+        +------------+
-                       ▲                     ▲
-                       |                     |
-          Teste de conexão (ping)     Ativado se falha
-                 via LINK 1           no principal detectada
-                       |
-            +----------v-----------+
-            | LINK 1 FUNCIONANDO?  |
-            +----------+-----------+
-                       |
-          +------------+------------+
-          |                         |
-       [ SIM ]                  [ NÃO ]
-          |                         |
-  +-------v--------+      +--------v--------+
-  | Usar LINK 1    |      | Ativar LINK 2   |
-  | normalmente    |      | Desativar LINK 1|
-  +----------------+      +-----------------+
-                                 |
-                 +---------------v----------------+
-                 | Continuar monitorando LINK 1   |
-                 +--------------------------------+
+ - O fluxo abaixo explica de forma simples , como o Mikrotik irá tratar uma falha no link de internet.
+   ## 🌐 Diagrama de Failover de 2 Links
 
+| Etapa               | Ação                                                                 |
+|---------------------|----------------------------------------------------------------------|
+| Monitoramento       | Testar conectividade do LINK 1 (principal), ex: `ping 8.8.8.8`       |
+| Verificação         | LINK 1 está respondendo?                                              |
+| Se SIM              | Manter uso do LINK 1 (principal)                                     |
+| Se NÃO              | Ativar LINK 2 (backup) e desativar LINK 1                            |
+| Loop                | Continuar testando o LINK 1 periodicamente                           |
+| Retorno do LINK 1   | Se voltar a funcionar, reativar LINK 1 e desativar LINK 2 (failback) |
+
+
+ 
