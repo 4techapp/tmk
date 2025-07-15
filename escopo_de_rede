@@ -47,23 +47,7 @@
 -          Nobreak 1200 Va ou +
 -          Protetor contra surtos (DPS)  127/220 volts  
 
-**SERVIDOR**( requerimento mínimo )
 
--             PROCESSADOR
-                    Intel CORE I3 ou superior
-
--             MEMORIA RAM
-                    16GB ou superior
-
--             ARMAZENAMENTO
-                    Unidades de disco SSD ou NVME, 1tb ou superiores.
-
-- **SISTEMA OPERACIONAL**
-
--             Debian 12
-                    Servidor de Máquinas virtuais.
--             Microsoft Windows 10 ou +
-                    Máquina Virtual Servidor GCOM
 
 -             MP-4200th, Elgin I8 Full, Elgin I9, IRIS-POS200C
                     Comandas, Nfce, Pedidos Ifood.
