@@ -24,7 +24,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 ---
 
-### Estrutura de Rede Hierárquica (Texto)
+### Estrutura de Rede Hierárquica
 
 - INTERNET  
   - LINK1  
