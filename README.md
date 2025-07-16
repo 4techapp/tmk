@@ -6,9 +6,9 @@ Base de Conhecimento TMK x Gcom x 4tech
 # indrodução :
 
 # Link Internet
- Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
+- Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
 
- INTERNET
+  INTERNET
     LINK1
     LINK2
         MIKROTIK
@@ -23,6 +23,8 @@ Base de Conhecimento TMK x Gcom x 4tech
                         SERVIDOR_VIRTUAL_GCOM
                             BANCO_DE_DADOS_SQL
 
+
+# Mikrotik
 
  
  - O fluxo abaixo explica de forma simples , como o Mikrotik irá tratar uma falha no link de internet.
