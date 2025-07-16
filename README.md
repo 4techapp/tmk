@@ -4,22 +4,23 @@ Base de Conhecimento TMK x Gcom x 4tech
   **Este repositorio visa a melhoria, boa prática e base de conhecimento, nos processos de migração, e produção do sistema Gcom , tendo como foco hardwares, aplicações e infra estrutura de rede .**
 
 # Link Internet
-Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
+- Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
 
-  INTERNET
-    LINK1
-    LINK2
-        MIKROTIK
-            FAIL_OVER
-            REDE_CABEADA
-                DISPOSITVOS
-                    UNIFI
-                        TABLET, DISPOSITIVOS MOVEIS
-                    COMPUTADORES
-                    IMPRESSORAS
-                    SERVIDOR_DE_MAQUINA_VIRTUAL
-                        SERVIDOR_VIRTUAL_GCOM
-                            BANCO_DE_DADOS_SQL
+INTERNET
+  LINK1
+  LINK2
+    MIKROTIK
+    FAIL_OVER
+      REDE_CABEADA
+      DISPOSITVOS
+      UNIFI
+      TABLET
+      DISPOSITIVOS MOVEIS
+      COMMPUTADORES
+      IMPRESSORAS
+      SERVIDOR_DE_MAQUINA_VIRTUAL
+        SERVIDOR_VIRTUAL_GCOM
+          BANCO_DE_DADOS_SQL
 
 
 # Mikrotik
