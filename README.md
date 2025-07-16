@@ -1,12 +1,32 @@
 # tmk
 Base de Conhecimento TMK x Gcom x 4tech
 
-  **Este repositÓrio visa a melhoria, boa prática e base de conhecimento, nos processos de migração, e produção do sistema Gcom , tendo como foco hardwares, aplicações e infra estrutura de rede .**
+  **Este repositorio visa a melhoria, boa prática e base de conhecimento, nos processos de migração, e produção do sistema Gcom , tendo como foco hardwares, aplicações e infra estrutura de rede .**
 
-indrodução :
-** Link Internet **
+# indrodução :
+
+# Link Internet
+ Por padrão todas as unidades TEMAKERIA, utilizarão a estrutura de equipanetos, configurações e serviços descristos abaixo :
+
+ INTERNET
+    LINK1
+    LINK2
+        MIKROTIK
+            FAIL_OVER
+            REDE_CABEADA
+                DISPOSITVOS
+                    UNIFI
+                        TABLET, DISPOSITIVOS MOVEIS
+                    COMPUTADORES
+                    IMPRESSORAS
+                    SERVIDOR_DE_MAQUINA_VIRTUAL
+                        SERVIDOR_VIRTUAL_GCOM
+                            BANCO_DE_DADOS_SQL
+
+
+ 
  - O fluxo abaixo explica de forma simples , como o Mikrotik irá tratar uma falha no link de internet.
-   ## 🌐 Diagrama de Failover de 2 Links
+   ## Failover Mikrotik de 2 Links ##
 
 | Etapa               | Ação                                                                 |
 |---------------------|----------------------------------------------------------------------|
