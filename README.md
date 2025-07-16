@@ -6,21 +6,30 @@ Base de Conhecimento TMK x Gcom x 4tech
 # Link Internet
 - Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
 
-INTERNET
-  LINK1
-  LINK2
-    MIKROTIK
-    FAIL_OVER
-      REDE_CABEADA
-      DISPOSITVOS
-      UNIFI
-      TABLET
-      DISPOSITIVOS MOVEIS
-      COMMPUTADORES
-      IMPRESSORAS
-      SERVIDOR_DE_MAQUINA_VIRTUAL
-        SERVIDOR_VIRTUAL_GCOM
-          BANCO_DE_DADOS_SQL
+```mermaid
+graph TD
+    INTERNET
+    INTERNET --> LINK1
+    INTERNET --> LINK2
+
+    LINK1 --> MIKROTIK
+    LINK2 --> MIKROTIK
+
+    MIKROTIK --> FAIL_OVER
+    MIKROTIK --> REDE_CABEADA
+
+    REDE_CABEADA --> DISPOSITIVOS
+
+    DISPOSITIVOS --> UNIFI
+    DISPOSITIVOS --> COMPUTADORES
+    DISPOSITIVOS --> IMPRESSORAS
+    DISPOSITIVOS --> SERVIDOR_DE_MAQUINA_VIRTUAL
+
+    UNIFI --> TABLET
+    UNIFI --> DISPOSITIVOS_MOVEIS
+
+    SERVIDOR_DE_MAQUINA_VIRTUAL --> SERVIDOR_VIRTUAL_GCOM
+    SERVIDOR_VIRTUAL_GCOM --> BANCO_DE_DADOS_SQL
 
 
 # Mikrotik
