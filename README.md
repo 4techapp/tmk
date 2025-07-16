@@ -6,7 +6,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 # indrodução :
 
 # Link Internet
- Por padrão todas as unidades TEMAKERIA, utilizarão a estrutura de equipanetos, configurações e serviços descristos abaixo :
+ Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
 
  INTERNET
     LINK1
