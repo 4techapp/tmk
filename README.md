@@ -6,30 +6,43 @@ Base de Conhecimento TMK x Gcom x 4tech
 # Link Internet
 - Por padrão todas as unidades TEMAKERIA, utilizarão como padrão a estrutura de equipanetos, configurações e serviços descristos abaixo :
 
-```mermaid
-graph TD
-    INTERNET
-    INTERNET --> LINK1
-    INTERNET --> LINK2
+## Diagrama de Rede com Failover – Visão Geral
 
-    LINK1 --> MIKROTIK
-    LINK2 --> MIKROTIK
+### Fluxo de Conexão com Failover
 
-    MIKROTIK --> FAIL_OVER
-    MIKROTIK --> REDE_CABEADA
+| Etapa                        | Descrição                                                                 |
+|-----------------------------|---------------------------------------------------------------------------|
+| 1. Conexão à Internet        | Dois links disponíveis: LINK1 (principal) e LINK2 (backup)                |
+| 2. Roteador MikroTik         | Gerencia os dois links com mecanismo de failover                         |
+| 3. Failover Ativo           | Se o LINK1 falhar, o MikroTik ativa automaticamente o LINK2              |
+| 4. Rede Cabeada Interna      | Após o roteamento, o tráfego segue para a rede cabeada                   |
+| 5. Dispositivos na LAN       | Conectados via cabo ou via UNIFI (Wi-Fi)                                 |
+| 6. UNIFI Wi-Fi               | Fornece acesso a tablets e dispositivos móveis                           |
+| 7. Computadores e Impressoras| Conectados via rede cabeada                                              |
+| 8. Servidor Virtualizado     | Máquina física com VMs, incluindo o servidor do sistema GCOM             |
+| 9. Banco de Dados SQL        | Hospedado dentro da VM do GCOM                                           |
 
-    REDE_CABEADA --> DISPOSITIVOS
+---
 
-    DISPOSITIVOS --> UNIFI
-    DISPOSITIVOS --> COMPUTADORES
-    DISPOSITIVOS --> IMPRESSORAS
-    DISPOSITIVOS --> SERVIDOR_DE_MAQUINA_VIRTUAL
+### 🖥️ Estrutura de Rede Hierárquica (Texto)
 
-    UNIFI --> TABLET
-    UNIFI --> DISPOSITIVOS_MOVEIS
+- INTERNET  
+  - LINK1  
+  - LINK2  
+    - MIKROTIK  
+      - FAIL_OVER  
+      - REDE_CABEADA  
+        - DISPOSITIVOS  
+          - UNIFI  
+            - TABLET  
+            - DISPOSITIVOS MÓVEIS  
+          - COMPUTADORES  
+          - IMPRESSORAS  
+          - SERVIDOR DE MÁQUINA VIRTUAL  
+            - SERVIDOR VIRTUAL GCOM  
+              - BANCO DE DADOS SQL
 
-    SERVIDOR_DE_MAQUINA_VIRTUAL --> SERVIDOR_VIRTUAL_GCOM
-    SERVIDOR_VIRTUAL_GCOM --> BANCO_DE_DADOS_SQL
+
 
 
 # Mikrotik
