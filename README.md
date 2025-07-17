@@ -62,16 +62,12 @@ Base de Conhecimento TMK x Gcom x 4tech
 | Loop                | Continuar testando o LINK 1 periodicamente                           |
 | Retorno do LINK 1   | Se voltar a funcionar, reativar LINK 1 e desativar LINK 2 (failback) |
 
-## Descritivo hirárquico de equipamentos utilizados 
+## Composição de equipamentos, cabemanto e perifericos utilizados. 
 
-# [Rack de Rede][click +detalhes](https://github.com/4techapp/tmk/blob/main/Rack)
-    Roteadores [click +detalhes](https://github.com/4techapp/tmk/blob/main/Routers)
-        Cabeamento [click +detalhes](https://github.com/4techapp/tmk/blob/main/cabeamento)
-            Aps Sem Fio [click +detalhes](https://github.com/4techapp/tmk/blob/main/wireless)
-                    Rede Sem Fio
-                        Dispositivos Moveis
-        Servidor [click +detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
-            Servidor Virtual [click +detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
-                Banco de Dados Sql Gcom        
-        Impressoras
- 
+Rack de Red][click +detalhes](https://github.com/4techapp/tmk/blob/main/Rack)
+Roteadores [click +detalhes](https://github.com/4techapp/tmk/blob/main/Routers)
+Cabeamento [click +detalhes](https://github.com/4techapp/tmk/blob/main/cabeamento)
+Aps Sem Fio [click +detalhes](https://github.com/4techapp/tmk/blob/main/wireless)
+Servidor [click +detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
+Servidor Virtual [click +detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
+               
