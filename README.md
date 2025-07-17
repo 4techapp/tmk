@@ -6,7 +6,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 # Link Internet
 - Por padrão todas as unidades TEMAKERIA, utilizarão mesma estrutura de equipanetos, configurações e serviços descristos abaixo :
 
-## Diagrama de Rede com Failover – Visão Geral
+## Diagrama de Rede – Visão Geral
 
 ### Fluxo de Conexão com Failover
 
