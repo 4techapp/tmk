@@ -64,7 +64,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 ## Descritivo hirárquico de equipamentos utilizados 
 
-Rack de Rede
+# Rack de Rede
     Roteadores
         Cabeamento
             Aps Sem Fio
