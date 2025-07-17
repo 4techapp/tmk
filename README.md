@@ -63,9 +63,10 @@ Base de Conhecimento TMK x Gcom x 4tech
 | Retorno do LINK 1   | Se voltar a funcionar, reativar LINK 1 e desativar LINK 2 (failback) |
 
 ## Descritivo hirárquico de equipamentos utilizados 
-## [Rack de Rede](https://github.com/4techapp/tmk/blob/main/Rack)
-# [Roteadores](https://github.com/4techapp/tmk/blob/main/Routers)
-       # Cabeamento
+
+Rack de Rede
+    Roteadores
+        Cabeamento
             Aps Sem Fio
                     Rede Sem Fio
                         Dispositivos Moveis
@@ -73,5 +74,4 @@ Base de Conhecimento TMK x Gcom x 4tech
             Servidor Virtual
                 Banco de Dados Sql Gcom        
         Impressoras
-
  
