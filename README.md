@@ -64,10 +64,10 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 ## Composição de equipamentos, cabemanto e perifericos utilizados. 
 
-- Rack de Red[composicao](https://github.com/4techapp/tmk/blob/main/Rack)
-- Roteadores [omposicao](https://github.com/4techapp/tmk/blob/main/Routers)
-- Cabeamento [omposicao](https://github.com/4techapp/tmk/blob/main/cabeamento)
-- Aps Sem Fio [omposicao](https://github.com/4techapp/tmk/blob/main/wireless)
-- Servidor [omposicao](https://github.com/4techapp/tmk/blob/main/Servidor)
-- Servidor Virtual [omposicao](https://github.com/4techapp/tmk/blob/main/Servidor)
+- Rack de Rede [composicao](https://github.com/4techapp/tmk/blob/main/Rack)
+- Roteadores  [composicao](https://github.com/4techapp/tmk/blob/main/Routers)
+- Cabeamento  [composicao](https://github.com/4techapp/tmk/blob/main/cabeamento)
+- Aps Sem Fio  [omposicao](https://github.com/4techapp/tmk/blob/main/wireless)
+- Servidor  [composicao](https://github.com/4techapp/tmk/blob/main/Servidor)
+- Servidor Virtual  [composicao](https://github.com/4techapp/tmk/blob/main/Servidor)
                
