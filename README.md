@@ -45,7 +45,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 
 
-# Mikrotik
+# Sobre o Mikrotik
 
  
  - O fluxo abaixo explica de forma simples , como o Mikrotik irá tratar uma falha no link de internet.
