@@ -64,7 +64,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 ## Descritivo hirárquico de equipamentos utilizados 
 
-# Rack de Rede [click + detalhes](https://github.com/4techapp/tmk/blob/main/Rack)
+# Rack de Rede # [click + detalhes](https://github.com/4techapp/tmk/blob/main/Rack)
     Roteadores [click + detalhes](https://github.com/4techapp/tmk/blob/main/Routers)
         Cabeamento [click + detalhes](https://github.com/4techapp/tmk/blob/main/cabeamento)
             Aps Sem Fio [click + detalhes](https://github.com/4techapp/tmk/blob/main/wireless)
