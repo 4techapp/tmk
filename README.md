@@ -63,7 +63,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 | Retorno do LINK 1   | Se voltar a funcionar, reativar LINK 1 e desativar LINK 2 (failback) |
 
 ## Descritivo hirárquico de equipamentos utilizados 
-## Rack de Rede
+## [Rack de Rede](https://github.com/settings/emails)
     Roteadores
         Cabeamento
             Aps Sem Fio
