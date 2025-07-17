@@ -69,5 +69,5 @@ Base de Conhecimento TMK x Gcom x 4tech
 - Cabeamento  [detalhes](https://github.com/4techapp/tmk/blob/main/Cabeamento)
 - Aps Sem Fio  [detalhes](https://github.com/4techapp/tmk/blob/main/Wireless)
 - Servidor  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
-- Servidor Virtual  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
+- Servidor Virtual  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor%20Virtual)
                
