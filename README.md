@@ -66,7 +66,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 - Rack de Rede [detalhes](https://github.com/4techapp/tmk/blob/main/Rack)
 - Roteadores  [detalhes](https://github.com/4techapp/tmk/blob/main/Routers)
-- Cabeamento  [detalhes](https://github.com/4techapp/tmk/blob/main/cabeamento)
+- Cabeamento  [detalhes](https://github.com/4techapp/tmk/blob/main/Cabeamento)
 - Aps Sem Fio  [detalhes](https://github.com/4techapp/tmk/blob/main/wireless)
 - Servidor  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
 - Servidor Virtual  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
