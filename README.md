@@ -46,7 +46,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 
 # Sobre o Mikrotik
-- Equipamento encarregado em receber e tratar os links de internet, criar e gerir a rede interna , assim como todas as suas depenências, provendo dados, ferramentas, logs e recursos avançados. Sendo ele parte central do ecosistema . 
+- Equipamento encarregado em receber e tratar os links de internet, criar e gerir a rede interna , assim como todas as suas dependências, provendo dados, ferramentas, logs e recursos avançados. Sendo ele parte central do ecosistema . 
  
 
  
