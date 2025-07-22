@@ -1,7 +1,7 @@
 # TMK
 Base de Conhecimento TMK x Gcom x 4tech
 
-  **Este repositorio visa a melhoria, boa prática e base de conhecimento, nos processos de migração, e produção do sistema Gcom , tendo como foco hardwares, aplicações e infra estrutura de rede .**
+  **Este repositorio visa a melhoria, boa prática e base de conhecimento, nos processos de migração, e produção do sistema Gcom nas unidades TMK , tendo como foco hardwares, aplicações e infra estrutura de rede .**
 
 # Link Internet
 - Por padrão todas as unidades TEMAKERIA, utilizarão 02 links de internet, respeitando a mesma estrutura de equipamentos, configurações e serviços descristos abaixo :
