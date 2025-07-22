@@ -65,7 +65,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 ## Composição de equipamentos, cabeamento e perifericos utilizados. 
 
 - Rede [detalhes](Rede/Readme.md)
-- Rede Sem Fio  [detalhes](Rede sem Fio/Readme.md)
+- Rede Sem Fio  [detalhes](Rede_sem_Fio/Readme.md)
 - Servidores  [detalhes](Servidor/Readme.md)
 - Impressoras  [detalhes](Impressoras/Readme.md)
                
