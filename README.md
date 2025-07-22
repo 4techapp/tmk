@@ -65,9 +65,7 @@ Base de Conhecimento TMK x Gcom x 4tech
 ## Composição de equipamentos, cabeamento e perifericos utilizados. 
 
 - Rede [detalhes](Rede/Readme.md)
-- Roteadores  [detalhes](https://github.com/4techapp/tmk/blob/main/Routers)
-- Cabeamento  [detalhes](https://github.com/4techapp/tmk/blob/main/Cabeamento)
-- Aps Sem Fio  [detalhes](https://github.com/4techapp/tmk/blob/main/Wireless)
-- Servidor  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor)
-- Servidor Virtual  [detalhes](https://github.com/4techapp/tmk/blob/main/Servidor%20Virtual)
+- Wireless  [detalhes](Wireless/Readme.md)
+- Servidores  [detalhes](Servidor/Readme.md)
+- Impressoras  [detalhes](Impressoras/Readme.md)
                
