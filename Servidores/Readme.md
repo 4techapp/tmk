@@ -1,4 +1,14 @@
-# Servidor de Máquinas virtuais.
+
+
+
+
+
+
+
+
+
+
+# Servidor Virtualizado (GCOM) .
 -             PROCESSADOR
                     3 Cores ou +
 
