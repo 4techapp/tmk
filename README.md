@@ -73,9 +73,9 @@ Base de Conhecimento TMK x Gcom x 4tech
  Analisando o modo operante do sistema Gcom x Temakeria, se fazem necessarios considerar alguns requisitos, que podem impactar no bom funcionamento, ou ate mesmo uma inerrupcão parcial ou total da operação, senao adequados, monitorados e atualizados constantementes.
 
 - Rede Local - veículo de transporte dos dados, enviando e recebendo tais dados , diretamente ou por meio de terceiros( Aps sem fio , servidores, tablets ... ).
-- Rede Sem Fio - Trasporta os dados dos dispositivos moveis, interligando esses dispositivos a rede local.
-- Cobertura do Sinal Sem Fio - E a qualidade do sinal da rede sem fio , uma má cobertura pode causar perda de informações.
-  Ainda sobre a cobertura , essa se divide entre dois ambientes indoor(Interno) e outdoor(externo), devendo ser repeitados esqipamentos especificos para cada ambiente. 
+- Rede Sem Fio - trasporta os dados dos dispositivos moveis, interligando esses dispositivos a rede local.
+- Cobertura do Sinal Sem Fio - e a qualidade do sinal da rede sem fio, uma má cobertura pode causar perda de informações.
+  **Ainda sobre a cobertura do sinal, essa se divide entre dois ambientes, interno (INDOOR) e Externo (OUTDOOR), devendo ser repeitados equipamentos especificos para cada ambiente.** 
   
 
 - Impressoras de Comanda
