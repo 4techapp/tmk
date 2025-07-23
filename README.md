@@ -74,11 +74,9 @@ Base de Conhecimento TMK x Gcom x 4tech
 
 - Rede Local - veículo de transporte dos dados, enviando e recebendo tais dados , diretamente ou por meio de terceiros( Aps sem fio , servidores, tablets ... ).
 - Rede Sem Fio - trasporta os dados dos dispositivos moveis, interligando esses dispositivos a rede local.
-- Cobertura do Sinal Sem Fio - e a qualidade do sinal da rede sem fio, uma má cobertura pode causar perda de informações.
+- Cobertura do Sinal Sem Fio - é a qualidade do sinal da rede sem fio, uma má cobertura pode ocasionar perda de informações.
   **Ainda sobre a cobertura do sinal, essa se divide entre dois ambientes, interno (INDOOR) e Externo (OUTDOOR), devendo ser repeitados equipamentos especificos para cada ambiente.** 
-  
+  - Impressoras de Comanda - essenciais para saida de pedidos , emissâo de cupons fiscais, sendo necessario,  ao menos o2 unidades de backup que devem sofrer rodizios, no intuito de envios periodicos ( ao menos a cada 3 meses ) de manutenção das impressoras em operação. 
 
-- Impressoras de Comanda
-
-- Sevidores
+- Sevidores - responsaveis pela hospedagem das aplicações e base de dados Gcom.
  
