@@ -69,3 +69,11 @@ Base de Conhecimento TMK x Gcom x 4tech
 - Servidores  [detalhes](Servidor/Readme.md)
 - Impressoras  [detalhes](Impressoras/Readme.md)
                
+## Visâo geral sobre o Ifra estrutura X Gcom .
+ Analisando o modo operante do sistema Gcom x Temakeria, se fazem necessarios considerar alguns requisitos, que podem impactar, no bom funcionamento, senao adequados e atulizados confomre a evolução da integração.
+- Local
+   
+- Rede Sem Fio
+
+- Impressoras de Comanda
+ 
