@@ -76,7 +76,8 @@ Base de Conhecimento TMK x Gcom x 4tech
 - Rede Sem Fio - trasporta os dados dos dispositivos moveis, interligando esses dispositivos a rede local.
 - Cobertura do Sinal Sem Fio - é a qualidade do sinal da rede sem fio, uma má cobertura pode ocasionar perda de informações.
   **Ainda sobre a cobertura do sinal, essa se divide entre dois ambientes, interno (INDOOR) e Externo (OUTDOOR), devendo ser repeitados equipamentos especificos para cada ambiente.** 
-  - Impressoras de Comanda - essenciais para saida de pedidos , emissâo de cupons fiscais, sendo necessarias, ao menos o2 unidades de backup, ao qual sofrerão rodizios com as impressoras em operção, no intuito de manutenção preventiva ou ate mesmo contigencia.
+- Impressoras Térmicas - essenciais para saida de pedidos , emissâo de cupons fiscais, sendo necessario ao menos o2 unidades de backup, no qual sofrerão rodizios com as impressoras em operção, com intuito de manutenção preventiva ou ate mesmo contigencia.
 
 - Sevidores - responsaveis pela hospedagem das aplicações e base de dados Gcom.
- 
+
+ ## Esta documentação estará em contante atualizacao ##
